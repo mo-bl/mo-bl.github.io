@@ -3,7 +3,11 @@ layout: default
 ---
 
 Hi,
-welcome to my page!  
+and welcome to my page.  
+My name is Moritz Bley and as of the 1.11.2023 I am a PhD student at [CISPA Helmholtz](https://cispa.de/en), working for Prof. Thorsten Holz in the System Security group.  
+Before transferring to CISPA I first, did my Bachelor's degree in computer science at the Friedrich Alexander University in Erlangen. For my Bachelors thesis on _Breaking the Trusted Firmware in Huawei Devices_ I was awarded first place in the [CAST award](https://www.cs1.tf.fau.de/2020/11/26/germanys-best-bachelors-thesis-in-it-security-moritz-bley-receives-cast-award-2020/).  
+Afterward, I relocated to Bochum and switched to IT-Security for my master's degree. During this time I already started working in the System Security group, which was back then located at the Ruhr University Bochum, and mainly did research on firmware security as a assistant scientist. I pursued this topic all the way to the end of my master and into my PhD.
+
 
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
