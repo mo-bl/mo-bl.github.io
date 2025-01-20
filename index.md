@@ -27,7 +27,7 @@ If you are interested in program analysis, firmware or fuzzing in general and wa
 
 - [Greener Fuzzing Evaluations](./greener_fuzzing.html)
 - [Improving Firmware Fuzzing Through Directed Fuzzing](./directed_fuzzing.md)
-- [Improving Firmware Fuzzing Through Snapshots from Real Hardware](hardware-snap.md)
+- [Improving Firmware Fuzzing Through Snapshots from Real Hardware](hardware_snap.md)
 - [Fuzzing Real Firmware](./fuzzing_specific.html)
 
 
