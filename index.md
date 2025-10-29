@@ -25,6 +25,11 @@ If you are interested in collaborating for a project or want to write a thesis, 
 
 # Publications
 ## 2025
+> **VMIGen: Utilizing Virtual Machine Introspection for Fuzzing Complex Closed-Source Targets**
+> * Florian Schweins, Moritz Schloegel, Moritz Bley, Nico Schiller, Thorsten Holz
+>  Annual Computer Security Applications Conference (ACSAC)
+>
+>
 > **Protocol-Aware Firmware Rehosting for Effective Fuzzing of Embedded Network Stacks**  
 > *Moritz Bley, Tobias Scharnowski, Simon Wörner, Moritz Schloegel, Thorsten Holz*    
 > ACM Conference on Computer and Communications Security (CCS)  
