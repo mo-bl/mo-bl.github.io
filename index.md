@@ -37,4 +37,4 @@ If you are interested in collaborating for a project or want to write a thesis, 
 > [[pdf]](https://www.usenix.org/system/files/usenixsecurity25-scharnowski.pdf)[[code]](https://github.com/fuzzware-fuzzer/gdma-experiments)
 
 
-
+[_legal_](./legal.md)
