@@ -27,13 +27,13 @@ I am mainly interested in large scale security analysis (of firmware) through fu
 
 # Publications
 ## 2025
-> *Protocol-Aware Firmware Rehosting for Effective Fuzzing of Embedded Network Stacks*  
-> **Moritz Bley, Tobias Scharnowski, Simon Wörner, Moritz Schloegel, Thorsten Holz**  
+> **Protocol-Aware Firmware Rehosting for Effective Fuzzing of Embedded Network Stacks**  
+> *Moritz Bley, Tobias Scharnowski, Simon Wörner, Moritz Schloegel, Thorsten Holz*    
 > ACM Conference on Computer and Communications Security (CCS)  
 >
 >
-> *GDMA: Fully Automated DMA Rehosting via Iterative Type Overlays*  
-> **Tobias Scharnowski, Simeon Hoffmann, Moritz Bley, Simon Wörner, Daniel Klischies, Felix Buchmann, Nils Ole Tippenhauer, Thorsten Holz, Marius Muench**  
+> **GDMA: Fully Automated DMA Rehosting via Iterative Type Overlays**  
+> *Tobias Scharnowski, Simeon Hoffmann, Moritz Bley, Simon Wörner, Daniel Klischies, Felix Buchmann, Nils Ole Tippenhauer, Thorsten Holz, Marius Muench*  
 > USENIX Security Symposium  
 
 
