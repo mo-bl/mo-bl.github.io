@@ -15,26 +15,26 @@ Beyond that I am also interested in the general field of fuzzing as a tool to de
 
 If you are interested in any of these topics or have other ideas you would like to explore in a bachelor's or master's thesis feel free to contact me!
 
-# Contact me 
-If you are interested in collaborating for a project or want to write a thesis, you can contact me by e-mail: [moritz.bley@cispa.de](mailto:moritz.bley@cispa.de)
-
-
 # Open thesis topics
 If you are interested in program analysis, firmware or fuzzing in general and want to write a thesis feel free to contact me. 
 
 I am mainly interested in large scale security analysis (of firmware) through fuzzing (Fuzzing is a technique where a target is repeatedly executed with semi-random inputs and its behavior is observed for crashing or erroneous behavior).  
 
+# Contact me 
+If you are interested in collaborating for a project or want to write a thesis, you can contact me by e-mail: [moritz.bley@cispa.de](mailto:moritz.bley@cispa.de)
 
 # Publications
 ## 2025
 > **Protocol-Aware Firmware Rehosting for Effective Fuzzing of Embedded Network Stacks**  
 > *Moritz Bley, Tobias Scharnowski, Simon Wörner, Moritz Schloegel, Thorsten Holz*    
 > ACM Conference on Computer and Communications Security (CCS)  
+> [[pdf]](https://arxiv.org/pdf/2509.13740)[[code]](https://github.com/MPI-SysSec/pemu)
 >
 >
 > **GDMA: Fully Automated DMA Rehosting via Iterative Type Overlays**  
 > *Tobias Scharnowski, Simeon Hoffmann, Moritz Bley, Simon Wörner, Daniel Klischies, Felix Buchmann, Nils Ole Tippenhauer, Thorsten Holz, Marius Muench*  
 > USENIX Security Symposium  
+> [[pdf]](https://www.usenix.org/system/files/usenixsecurity25-scharnowski.pdf)[[code]](https://github.com/fuzzware-fuzzer/gdma-experiments)
 
 
 
