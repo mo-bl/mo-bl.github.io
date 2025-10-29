@@ -15,11 +15,6 @@ Beyond that I am also interested in the general field of fuzzing as a tool to de
 
 If you are interested in any of these topics or have other ideas you would like to explore in a bachelor's or master's thesis feel free to contact me!
 
-# Open thesis topics
-If you are interested in program analysis, firmware or fuzzing in general and want to write a thesis feel free to contact me. 
-
-I am mainly interested in large scale security analysis (of firmware) through fuzzing (Fuzzing is a technique where a target is repeatedly executed with semi-random inputs and its behavior is observed for crashing or erroneous behavior).  
-
 # Contact me 
 If you are interested in collaborating for a project or want to write a thesis, you can contact me by e-mail: [moritz.bley@cispa.de](mailto:moritz.bley@cispa.de)
 
