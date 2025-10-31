@@ -6,3 +6,5 @@ description: Personal webpage of Moritz Bley - publications and contact informat
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
