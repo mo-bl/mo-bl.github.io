@@ -22,7 +22,7 @@ If you are interested in collaborating for a project or want to write a thesis, 
 ## 2025
 > **VMIGen: Utilizing Virtual Machine Introspection for Fuzzing Complex Closed-Source Targets**  
 > *Florian Schweins, Moritz Schloegel, Moritz Bley, Nico Schiller, Thorsten Holz*
-> Annual Computer Security Applications Conference (ACSAC)
+> Annual Computer Security Applications Conference (ACSAC)  
 > [[pdf]](https://mschloegel.me/paper/schweins2025vmigen.pdf)[[code]](https://github.com/MPI-SysSec/VMIGen)
 >
 >
