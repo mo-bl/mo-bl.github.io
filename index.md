@@ -19,6 +19,12 @@ If you are interested in any of these topics or have other ideas you would like 
 # Contact me 
 If you are interested in collaborating for a project or want to write a thesis, you can contact me by e-mail: [moritz.bley@mpi-sp.org](mailto:moritz.bley@mpi-sp.org)
 
+# Service
+> 2026 NDSS Artifact Evaluation & Best Artifact Sub-Committee
+
+# Teaching
+  > 2025 Summer Term: Fuzzing lab course @ Ruhr-Universitaet Bochum
+
 # Publications
 ## 2025
 > **VMIGen: Utilizing Virtual Machine Introspection for Fuzzing Complex Closed-Source Targets**  
