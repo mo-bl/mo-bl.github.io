@@ -20,7 +20,10 @@ If you are interested in any of these topics or have other ideas you would like 
 If you are interested in collaborating for a project or want to write a thesis, you can contact me by e-mail: [moritz.bley@mpi-sp.org](mailto:moritz.bley@mpi-sp.org)
 
 # Service
-> 2026 NDSS Artifact Evaluation & Best Artifact Sub-Committee
+> 2026 IEEE Transactions on Software Engineering (TSE) Reviewer
+>
+> 2026 NDSS Artifact Evaluation
+> **Distinguished Artifact Reviewer 🏆**
 
 # Teaching
   > 2025 Summer Term: Fuzzing lab course @ Ruhr-Universitaet Bochum
