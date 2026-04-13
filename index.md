@@ -17,7 +17,7 @@ Beyond that I am also interested in the general field of fuzzing as a tool to de
 If you are interested in any of these topics or have other ideas you would like to explore in a bachelor's or master's thesis feel free to contact me!
 
 # Contact me 
-If you are interested in collaborating for a project or want to write a thesis, you can contact me by e-mail: [moritz.bley@mpi-sp.org](mailto:moritz.bley@mpi-sp.org)
+If you are interested in collaborating for a project or want to write a thesis, you can contact me by e-mail: [moritz.bley@mpi-sp.org](mailto:moritz.bley@mpi-sp.org) [PGP](assets/img/bley_pub.asc)
 
 # Service
 > 2026 IEEE Transactions on Software Engineering (TSE) Reviewer
